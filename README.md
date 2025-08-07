@@ -162,7 +162,7 @@ It will demonstrate:
 
 ## License
 
-MIT License. Free to use and modify.
+This project is licensed under the terms of the [MIT License](LICENSE).
 
 ---
 
