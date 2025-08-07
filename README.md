@@ -33,9 +33,9 @@ It is especially useful for applications that need to manage and execute multipl
 
 Simply copy the module into your project or import as a submodule.
 
-```bash
-# If saved as asyncfuncs.py
-from asyncfuncs import CapsFunc, FuncsToAsync, AsyncRunner
+
+
+from async_funcs_manager import CapsFunc, FuncsToAsync, AsyncRunner
 ````
 
 ---
